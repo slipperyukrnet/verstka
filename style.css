@@ -1,0 +1,112 @@
+
+.one {
+    width: 100%;
+    height: 300px;
+    display: flex;
+    flex-direction: row;
+}
+.oneone {
+width: 200px;
+height: 200px;
+background-color: blue;
+}
+
+.onetwo {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+
+.onethree {
+    width: 200px;
+    height: 200px;
+    background-color: green;
+    flex-direction: row;
+}
+
+.two {
+    width: 100%;
+    height: 300px;
+    display: flex;
+    flex-direction: row;
+}
+
+.twoone {
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+}
+.twotwo {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+.twothree {
+    width: 400px;
+    height: 200px;
+    background-color:green;
+    display: flex;
+    flex-direction: column;
+}
+
+.twofour {
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+}
+
+.twofive {
+    width: 200px;
+    height: 200px;
+    background-color: pink;
+}
+
+.twothreeone {
+    width: 300px;
+    height: 50px;
+    background-color: pink;
+    }
+
+.twothreetwo {
+    width: 300px;
+    height: 50px;
+    background-color: yellow;
+    }
+.twothreethree {
+    width: 300px;
+    height: 50px;
+    background-color: red;
+    }
+
+.three {
+    width: 100%;
+    height: 300px;
+    display: flex;
+    flex-direction: row;
+}
+
+.threeone {
+    width: 500px;
+    height: 200px;
+    background-color: grey;
+    display: flex;
+    flex-direction: row;
+}
+.threoneone {
+    width: 50px;
+    height: 50px;
+    background-color: red;
+}
+
+.threeonetwo {
+    width: 50px;
+    height: 50px;
+    background-color:blue;
+}
+
+.threeonetree {
+    width: 50px;
+    height: 50px;
+    background-color:green;
+}
+
